@@ -1,50 +1,70 @@
-Hello, I'm Anirudh Kulkarni! 👋
-I'm a passionate Full Stack Developer based in Bangalore, India. Welcome to my GitHub profile! Feel free to explore my projects and contributions.
+<h1>Hi there, I'm Rohan Saini! 👋</h1>
 
-About Me
-🎓 Electronics Engineering graduate from Bangalore Institute of Technology, with a CGPA of 8.4 (Aug 2023).
-💼 Currently working as a Full Stack Developer Intern at MBB Labs, Maybank Bangalore.
-🌱 Always learning and exploring new technologies to enhance my skills.
-Skills
-Programming Languages
-Java, JavaScript, C/C++
+<p>I'm a passionate Full Stack Developer based in Bangalore, India. Welcome to my GitHub profile! Feel free to explore my projects and contributions.</p>
 
-Front-end Technologies
-HTML, CSS, React.js, Bootstrap, Tailwind CSS, Flutter
+<h1>About Me</h1>
 
-Back-end Technologies
-Rest APIs, Node.js, Express.js, Java Spring Boot
+<p>
+  🎓 Computer Science Engineering graduate from Chitkara University, with a CGPA of 9.94 (Aug 2023).<br>
+  💼 Currently working as a Full Stack Developer Intern at MBB Labs, Maybank Bangalore.<br>
+  🌱 Always learning and exploring new technologies to enhance my skills.
+</p>
 
-Database
-MySQL, MongoDB
+<h1>Skills</h1>
 
-Tools & Technologies
-Git & GitHub, Netlify & Render, Postman, Pandas, NumPy, Matplotlib, Scikit-learn
+<h2>Programming Languages</h2>
+<p>Java, JavaScript, C/C++</p>
 
-Work Experience
-MBB Labs, Maybank Bangalore
-Full Stack Developer Intern (Nov 2023 - Present)
-Designing and implementing Rest APIs for new Bank Insurance service.
-Tech stack: Java Spring Boot, React.js, Hibernate, PL/SQL.
-Sain Informatics
-Full Stack Developer Intern (Aug 2022 - Sep 2022)
-Spearheaded the development of a cryptocurrency tracking website.
-Tech stack: React.js, Axios, HTML, CSS, JavaScript, APIs integration.
-Projects
-Personal Blogging Platform
-Developed a personal blogging platform with MongoDB, React.js, Express.js, Node.js.
-Implemented microservices for efficient data fetching.
-MindWellnessPro - Mental Health Web App
-Led the development of a modern mental health app integrating sentiment analysis.
-Tech Stack: React.js, Tailwind CSS, Node.js, Express.js, MongoDB.
-Achievements
-SparXelerate Hackathon Bangalore
-Winner (1st place) - October 2023
-Developed MindWellnessPro web app.
-Utilized sentiment analysis for personalized user experiences.
-Streamlined therapist workflow with AI-driven report generation.
-Get in Touch
-📧 Email: Anirudh.madhav.kulkarni@gmail.com
-💼 LinkedIn: Anirudh Kulkarni
-🌐 Portfolio: Portfolio Website
-📱 Phone: +91 7899416499
+<h2>Front-end Technologies</h2>
+<p>HTML, CSS, React JS, Bootstrap, Tailwind CSS</p>
+
+<h2>Back-end Technologies</h2>
+<p> Java Spring boot, JDBC, Hibernate, Rest APIs, Micro Services, OOPS, JUnit</p>
+
+<h2>Database</h2>
+<p>SQL, My SQL (Oracle DB), PostgreSQL, MongoDB</p>
+
+<h2>Tools & Technologies</h2>
+<p>Jenkins, Docker, GIT, GitHub, NVM, VS Code, STS, JBOSS, Postman.</p>
+
+<h1>Work Experience</h1>
+
+<h2>MBB Labs, Maybank Bangalore</h2>
+<p>
+  Full Stack Developer Intern (Nov 2023 - Present)<br>
+  Designing and implementing Rest APIs for new Bank Insurance service.<br>
+  Tech stack: Java Spring Boot, JPA, PL/SQL, JBOSS, JavaScript, React JS, AXIOS, Bootstrap, React-Hooks, HTML, CSS, APIs integration, Postman, Low-level Methodologies.
+</p>
+
+<h2>TIKET.COM </h2>
+<p>
+  Backend Developer Intern (Jun 2022 - Jun 2023)<br>
+  Spearheaded the development of a cryptocurrency tracking website.<br>
+  Tech stack:  Java Spring Boot, STS, APIs integration, JDBC, BIGQUERY, MongoDB, Postman.
+</p>
+
+<h1>Projects</h1>
+
+<h2>HRMS – Human Resource Management System </h2>
+<p>
+  Spearheaded robust filtering mechanisms for Staff details, optimizing targeted data retrieval.<br>
+  Implemented microservices for efficient data fetching.
+</p>
+
+<h2>ATM MACHINE</h2>
+<p>
+  Developed a Java program to simulate an Automated Teller Machine (ATM) system capable of performing essential 
+banking operations.<br>
+  The program includes functionalities such as viewing available balance, withdrawing funds, depositing funds, and 
+viewing mini-statements.
+</p>
+
+
+<h1>Get in Touch</h1>
+
+<p>
+  📧 Email: <a href="mailto:sainirohan7996@gmail.com">sainirohan7996@gmail.com</a><br>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/rohan-saini-502b301b4/">Rohan Saini</a><br>
+  🌐 GFG: <a href="https://auth.geeksforgeeks.org/user/sainirohan7996/">GFG Profile</a><br>
+  📱 Phone: +91 9518818447
+</p>
