@@ -31,31 +31,31 @@
 
 <h2>MBB Labs, Maybank Bangalore</h2>
 <p>
-  Full Stack Developer Intern (Nov 2023 - Present)<br>
-  Designing and implementing Rest APIs for new Bank Insurance service.<br>
-  Tech stack: Java Spring Boot, JPA, PL/SQL, JBOSS, JavaScript, React JS, AXIOS, Bootstrap, React-Hooks, HTML, CSS, APIs integration, Postman, Low-level Methodologies.
+-  Full Stack Developer Intern (Nov 2023 - Present)<br>
+-  Designing and implementing Rest APIs for new Bank Insurance service.<br>
+-  Tech stack: Java Spring Boot, JPA, PL/SQL, JBOSS, JavaScript, React JS, AXIOS, Bootstrap, React-Hooks, HTML, CSS, APIs integration.
 </p>
 
 <h2>TIKET.COM </h2>
 <p>
-  Backend Developer Intern (Jun 2022 - Jun 2023)<br>
-  Spearheaded the development of a cryptocurrency tracking website.<br>
-  Tech stack:  Java Spring Boot, STS, APIs integration, JDBC, BIGQUERY, MongoDB, Postman.
+-  Backend Developer Intern (Jun 2022 - Jun 2023)<br>
+-  Spearheaded the development of a cryptocurrency tracking website.<br>
+-  Tech stack:  Java Spring Boot, STS, APIs integration, JDBC, BIGQUERY, MongoDB, Postman.
 </p>
 
 <h1>Projects</h1>
 
 <h2>HRMS – Human Resource Management System </h2>
 <p>
-  Spearheaded robust filtering mechanisms for Staff details, optimizing targeted data retrieval.<br>
-  Implemented microservices for efficient data fetching.
+-  Spearheaded robust filtering mechanisms for Staff details, optimizing targeted data retrieval.<br>
+-  Implemented microservices for efficient data fetching.
 </p>
 
 <h2>ATM MACHINE</h2>
 <p>
-  Developed a Java program to simulate an Automated Teller Machine (ATM) system capable of performing essential 
+- Developed a Java program to simulate an Automated Teller Machine (ATM) system capable of performing essential 
 banking operations.<br>
-  The program includes functionalities such as viewing available balance, withdrawing funds, depositing funds, and 
+-  The program includes functionalities such as viewing available balance, withdrawing funds, depositing funds, and 
 viewing mini-statements.
 </p>
 
